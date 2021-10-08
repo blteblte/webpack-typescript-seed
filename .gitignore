@@ -62,3 +62,6 @@ typings/
 
 # package locks
 package-lock.json
+
+# generated dist
+dist/
